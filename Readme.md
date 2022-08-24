@@ -5,3 +5,10 @@ Titus Winters, Software Engineering at Google
 
 A engenharia de software esta ligada a programação, mas ela vai além de programar.
 Um engenheiro de software é responsavel pelo desenvolvimento, manutenção e criação de software, aplicando tecnologias e gerenciando projetos.
+
+
+# Atividade de Requisitos
+
+#Locadora de carros
+
+## Requisitos Funcionais:
