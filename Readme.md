@@ -7,8 +7,17 @@ A engenharia de software esta ligada a programação, mas ela vai além de progr
 Um engenheiro de software é responsavel pelo desenvolvimento, manutenção e criação de software, aplicando tecnologias e gerenciando projetos.
 
 
-# Atividade de Requisitos
+# Atividade de Projeto
 
 #Locadora de carros
 
 ## Requisitos Funcionais:
+> O locatario pode escolher o carro<br>
+> O Locatario pode escolher a data de locação<br>
+> O locaratio pode inserir seus dados<br>
+
+## Requisitos Não Funcionais
+> Acesso da plataforma via Web<br>
+> Interface com modelos de carros disponiveis na data selecionada e cadastramentodo locatario<br>
+
+
