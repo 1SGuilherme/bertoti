@@ -18,6 +18,6 @@ Um engenheiro de software é responsavel pelo desenvolvimento, manutenção e cr
 
 ## Requisitos Não Funcionais
 > Acesso da plataforma via Web<br>
-> Interface com modelos de carros disponiveis na data selecionada e cadastramentodo locatario<br>
+> Interface com modelos de carros disponiveis na data selecionada e cadastramentodo do locatario<br>
 
 
