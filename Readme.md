@@ -16,7 +16,7 @@ Um engenheiro de software é responsavel pelo desenvolvimento, manutenção e cr
 > O Locatario pode escolher a data de locação<br>
 > O locaratio pode inserir seus dados<br>
 
-## Requisitos Não Funcionais
+## Requisitos Não Funcionais:
 > Acesso da plataforma via Web<br>
 > Interface com modelos de carros disponiveis na data selecionada e cadastramentodo do locatario<br>
 
