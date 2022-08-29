@@ -20,4 +20,9 @@ Um engenheiro de software é responsavel pelo desenvolvimento, manutenção e cr
 > Acesso da plataforma via Web<br>
 > Interface com modelos de carros disponiveis na data selecionada e cadastramentodo do locatario<br>
 
+<div align="center">
+
+![locadora](https://user-images.githubusercontent.com/101949459/187311830-2f0abc7b-f1ab-44eb-b07f-e5306dc675a5.png)
+
+</div>
 
