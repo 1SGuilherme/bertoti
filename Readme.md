@@ -20,9 +20,18 @@ Um engenheiro de software é responsavel pelo desenvolvimento, manutenção e cr
 > cadastramento de carros<br> 
 > cadastramentodo do locatario<br>
 
+## Diagrama de casos de uso
+
 <div align="center">
 
 ![locadora](https://user-images.githubusercontent.com/101949459/187311830-2f0abc7b-f1ab-44eb-b07f-e5306dc675a5.png)
 
 </div>
 
+## Diagrama de classes UML
+
+<div align="center"
+
+![Blank document](https://user-images.githubusercontent.com/101949459/206042335-bbb1764c-28ab-4be5-b480-64f2656cfa82.jpeg)
+
+</div>
